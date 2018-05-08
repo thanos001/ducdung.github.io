@@ -9,8 +9,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/getituneid.deb
-Size: 37812
-MD5sum: 0a986c441facf310d0bf5dbd650dae54
-SHA1: 5a6793ca82a3e69a675f9d5656b2d5ecd2b27905
-SHA256: 5c33ebee2153620c6f059958db149808d3a14eaaadb3c20ca3465758fd5b5910
+Size: 37822
+MD5sum: 4951124840a57f9b6705f9cc8ad1ea50
+SHA1: e3a3da1d910433e450e3777f329ed11a5870bdb8
+SHA256: 1c357ef05b3ad2ce4c28164d8c0ba2f559fe6ed45ac72123eee03d032225d986
 Tag: role::hacker
