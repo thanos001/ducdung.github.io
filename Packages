@@ -24,7 +24,7 @@ Maintainer: duccom01
 Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
-Filename: ./Debs/getituneid.deb
+Filename: ./Debs/ituneplugin.deb
 Size: 11354
 MD5sum: 2771114bd41eeb3baa44ef5557b550fa
 SHA1: fd8999ef6f3e6153a17c92a3275cf6ea187403c8
