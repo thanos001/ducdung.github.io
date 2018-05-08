@@ -2,17 +2,17 @@ Package: com.duccom01.getituneid
 Name: getituneid
 Version: 0.0.1
 Architecture: iphoneos-arm
-Depends: com.conradkramer.open,sqlite3,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,zip,sudo,ch.ringwald.hidsupport,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat
 Description: getituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneidgetituneid
 Maintainer: duccom01
 Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Utilities
 Filename: ./Debs/getituneid.deb
-Size: 27812
-MD5sum: 9a38b7ccccf996d3504123f23749bebf
-SHA1: 87cdca3fc8c6eb6b915083ec92503562716e93c4
-SHA256: eac6eef42639e02f2e5d4d54a4ebfc6b89b48ca2d9e21f1cf91ee3269651306f
+Size: 27832
+MD5sum: dd1f1e9823c525e39a9697292dbe4d82
+SHA1: 8c67adb1bb276e4991145384bb9cd388a66d7926
+SHA256: 4ca161261be551944b7333c19a4046bed2bd85373784aeb2bddeab451942ed42
 Tag: role::hacker
 
 Package: com.duccom01.ituneplugin
